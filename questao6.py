@@ -5,7 +5,7 @@ def main():
     print('O triângulo é Acutângulo!')
   elif angulo1 == 90 or angulo2 == 90 or angulo3 == 90:
      print('O triângulo é Retângulo!')
-  elif angulo1 > 90 or angulo2 > 90 > angulo3 > 90:
+  elif angulo1 > 90 or angulo2 > 90 or angulo3 > 90:
    print('O triângulo é Obtusângulo!')
 
 #--------------------
